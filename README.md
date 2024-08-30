@@ -193,3 +193,6 @@ To reproduce the issue, follow these steps:
 
 ## Jira issue open to fix this bug
 [Jira Debezium](https://issues.redhat.com/browse/DBZ-8150)
+
+## Release fix the problem
+[Debezium 3.0.0.Beta Released](https://debezium.io/blog/2024/08/26/debezium-3.0-beta1-released/)
